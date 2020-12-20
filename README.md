@@ -11,6 +11,8 @@ The data for this project was provided by a professor of mine at Tulane Universi
 that it not be shared. I went through and used a few different techniques to alter the data while also trying to maintain the 
 spirit of the project. I would be happy to discuss how I cleaned the data in more detail if necessary.
 
+*****NOTHING IN THIS REPO IS INTENDED TO INFLUENCE ANY OPINIONS OR PUBLIC POLICY. THIS IS A PORTFOLIO PROJECT INTENDED TO SHOWCASE SKILLS AND ABILITIES.
+
 
 
 
