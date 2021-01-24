@@ -1,4 +1,4 @@
-srequire 'csv'
+require 'Faker'
 
 $i = 0
 $num = 15370
